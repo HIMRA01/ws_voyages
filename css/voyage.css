@@ -1,0 +1,36 @@
+
+
+
+
+
+
+
+
+header{
+
+background-color: aqua;
+
+}
+
+
+
+
+
+img{
+
+width: 50px;
+height: 50px;
+
+}
+
+.carre{
+display: flex;
+  text-align: right;
+
+}
+
+.azerty{
+justify-content: space-around;
+
+
+}
